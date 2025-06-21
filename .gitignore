@@ -1,0 +1,18 @@
+
+# Python 
+_pycache__/
+*.pyc
+.pytest_cache
+
+# Conda environment files
+*.conda
+*.yml
+*.yaml
+
+# Conda packages cache (optional, usually outside project dir)
+pkgs/
+conda-meta/
+
+# Conda environment folders (if created inside the project)
+env/
+.conda/
